@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name_title">Test App</string>
+    <string name="open_profile">Open Profile</string>
+    <string name="my_account_title">My Account</string>
+    <string name="open_profile_content_description">Open Profile</string>
+    <string name="personal_information_subtitle">Personal Information</string>
+    <string name="card_management_subtitle">Card Management</string>
+    <string name="login_log_subtitle">Login Log</string>
+    <string name="vip_level_subtitle">Vip Level</string>
+    <string name="support_center_subtitle">Support Center</string>
+    <string name="general_title">General</string>
+    <string name="invite_friends_subtitle">Invite Friends</string>
+    <string name="stock_subtitle">Stock</string>
+    <string name="about_us_subtitle">About Us</string>
+    <string name="greetings">Welcome</string>
+    <string name="avatar_content_description">Avatar</string>
+
+</resources>

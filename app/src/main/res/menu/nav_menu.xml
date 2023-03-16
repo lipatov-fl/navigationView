@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="@string/my_account_title">
+        <menu>
+            <item
+                android:id="@+id/item1"
+                android:icon="@drawable/ic_item"
+                android:title="@string/personal_information_subtitle" />
+            <item
+                android:id="@+id/item2"
+                android:icon="@drawable/ic_item2"
+                android:title="@string/card_management_subtitle" />
+            <item
+                android:id="@+id/item3"
+                android:icon="@drawable/ac_item3"
+                android:title="@string/login_log_subtitle" />
+            <item
+                android:id="@+id/item4"
+                android:icon="@drawable/ic_item4"
+                android:title="@string/vip_level_subtitle" />
+        </menu>
+    </item>
+    <item android:title="@string/general_title">
+        <menu>
+            <item
+                android:id="@+id/item11"
+                android:icon="@drawable/ic_item"
+                android:title="@string/support_center_subtitle" />
+            <item
+                android:id="@+id/item22"
+                android:icon="@drawable/ic_item2"
+                android:title="@string/invite_friends_subtitle" />
+            <item
+                android:id="@+id/item33"
+                android:icon="@drawable/ac_item3"
+                android:title="@string/stock_subtitle" />
+            <item
+                android:id="@+id/item44"
+                android:icon="@drawable/ic_item4"
+                android:title="@string/about_us_subtitle" />
+        </menu>
+    </item>
+</menu>

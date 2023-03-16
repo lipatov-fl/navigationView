@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_title">Тестовое приложение</string>
+    <string name="open_profile">Открыть профиль</string>
+    <string name="my_account_title">Мой аккаунт</string>
+    <string name="personal_information_subtitle">Персональная информация</string>
+    <string name="card_management_subtitle">Управление картами</string>
+    <string name="login_log_subtitle">Журнал входа</string>
+    <string name="vip_level_subtitle">Вип уровень</string>
+    <string name="support_center_subtitle">Центр поддержки</string>
+    <string name="general_title">Общий</string>
+    <string name="invite_friends_subtitle">Пригласить друзей</string>
+    <string name="stock_subtitle">Запас</string>
+    <string name="about_us_subtitle">О нас</string>
+    <string name="greetings">Добро пожаловать</string>
+    <string name="avatar_content_description">Аватар</string>
+    <string name="open_profile_content_description">Открыть профиль</string>
+</resources>
